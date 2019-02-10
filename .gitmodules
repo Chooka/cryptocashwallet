@@ -1,0 +1,3 @@
+[submodule "cryptocash"]
+	path = cryptocash
+	url = https://github.com/Chooka/cryptocash.git
